@@ -1,4 +1,6 @@
 ### WP-2024-II
+### NOTE
+- Please note push code in the main Branch pushes only your Branch with STUDENT ID.
 This is the 2024 Web Programming Class Project for Git.
 
 1. Clone our Project repo 
