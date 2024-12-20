@@ -1,0 +1,67 @@
+body{
+    max-width: 800px;
+    align-items: center;
+    text-align: justify;
+    
+}
+.info {
+    background-image: url("../sju-log.png");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+/* .info .teacher{
+    background-image: url("../teacher.png");
+    background-position: left top;
+} */
+ .EDUCATION,
+ .Professional,
+ .Technical{
+    border: 1px;
+    margin:0px;
+ }
+.EDUCATION h3{
+    background-color: antiquewhite;
+}
+
+.EDUCATION .bachelors,
+.EDUCATION .masters,
+.EDUCATION .phd {
+    font-size:15px;
+    font-weight: bold;
+    background-color: aquamarine;
+}
+
+
+.EDUCATION p{
+    background-color: lightgoldenrodyellow;
+}
+
+.Professional{
+    background-color: lightblue;
+}
+.Professional .pro{
+    background-color: white;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.Technical{
+    background-color: lightgrey;
+}
+
+.Technical .tec{
+    background-color: white;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.profile h1{
+    padding-left:150px;
+}
+.info .a,
+.info .b,
+.info .c{
+    padding-left:150px;
+    padding-top:-1000px;
+}
